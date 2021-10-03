@@ -1,0 +1,33 @@
+.header img{
+          width: 300px;
+}
+.header{
+          text-align: center;
+}
+nav{
+          background-color: black;
+          line-height: 50px;
+}
+nav a{
+          color: white;
+          text-decoration: none;
+          padding: 10px;
+          margin: 0 15px;
+          position: relative;
+          left: -350px;
+}
+a:hover{
+          background-color: grey;
+}
+.input{
+          width: 80%;
+          height: 40px;
+          border-radius: 10px;
+}
+input::placeholder{
+          font-size: 23px;
+}
+.input-div{
+          line-height: 80px;
+          background-color: rgb(73, 71, 71);
+}

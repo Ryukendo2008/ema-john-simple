@@ -1,0 +1,11 @@
+.product{
+          display: flex;
+          margin-top: 30px;
+          gap: 20px;
+          margin-bottom: 10px;
+          border-bottom: 1px solid grey;
+          margin-right: 20px;
+}
+.por-img{
+          width: 30%;
+}
